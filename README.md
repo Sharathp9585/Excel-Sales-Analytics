@@ -19,9 +19,9 @@ Role of These Reports: Through these reports, my aim is to understand Atliq Hard
 
 2) **Finance Report Objectives**:
 
-*Create P&L Reports by Fiscal Year as well as by Market for Atliq Hardware*
+*Create Profit and Loss(P&L) Reports by Fiscal Year as well as by Market for Atliq Hardware*
 
--A fiscal year Report by [Year](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [Months](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) to understand Atliq's yearly financial performance.
+-A P&L statement by [Year](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and by [Months](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) to understand Atliq's yearly financial performance.
 
 -A [Market P&L Statement](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf) to gauge the financial health across different markets.
 
