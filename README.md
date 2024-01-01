@@ -3,9 +3,9 @@
 
 Welcome to my project on Sales and Finance Reporting! This journey is focused on understanding and improving the business performance of Atliq Hardware. As a newcomer in this field, I've embarked on creating insightful analytics reports to help drive strategic decisions within the company.
 
-1) Sales Report Objectives:
+1) **Sales Report Objectives**:
 
-**Create Customer Performance and Market Performance vs. Sales Target Reports for Atliq Hardware**
+*Create Customer Performance and Market Performance vs. Sales Target Reports for Atliq Hardware*
 
 - A Customer Performance Report essentiql to understand how Atliq's customers are interacting with thier products(https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 - A Market Performance vs. Sales Target Report to compare Atliq's actual sales performance against our goals.((https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
@@ -17,9 +17,9 @@ They help in recognizing patterns and tracking important metrics.
 
 Role of These Reports: Through these reports, my aim is to understand Atliq Hardware's customer behavior, optimize our discount strategy, and identify new market opportunities.
 
-2) Finance Report Objectives:
+2) **Finance Report Objectives**:
 
-**Create P&L Reports by Fiscal Year as well as by Market for Atliq Hardware**
+*Create P&L Reports by Fiscal Year as well as by Market for Atliq Hardware*
 
 -A Fiscal Year P&L Statement to understand Atliq's yearly financial performance.(https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
 
