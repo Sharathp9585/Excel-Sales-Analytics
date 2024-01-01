@@ -21,7 +21,7 @@ Role of These Reports: Through these reports, my aim is to understand Atliq Hard
 
 *Create P&L Reports by Fiscal Year as well as by Market for Atliq Hardware*
 
--A [P&L Statement by months](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) to understand Atliq's yearly financial performance.
+-A fiscal year Report by [Year](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [Months](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) to understand Atliq's yearly financial performance.
 
 -A [Market P&L Statement](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf) to gauge the financial health across different markets.
 
