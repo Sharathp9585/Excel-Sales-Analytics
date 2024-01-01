@@ -32,15 +32,15 @@ Role of These Reports: Through these reports, my aim is to understand Atliq Hard
 Role of These Reports: These reports are my first step in aligning financial planning with Atliq Hardware's strategic goals and instilling confidence in their financial future.
 
 ## Technical Skills Developed:
- - [x]Learned the basics of ETL (Extract, Transform, Load) methodology.
- - [x]Gained skills in generating a date table using Power Query.
- - [x]Understood how to derive fiscal months and quarters for Atliq Hardware.
- - [x]Explored establishing data model relationships with Power Pivot for Atliq's data.
- - [x]Practiced incorporating additional data into Atliq's existing model.
- - [x]Began utilizing DAX for creating calculated columns for Atliq Hardware.
+ - [x]	Learned the basics of ETL (Extract, Transform, Load) methodology.
+ - [x]	Gained skills in generating a date table using Power Query.
+ - [x]	Understood how to derive fiscal months and quarters for Atliq Hardware.
+ - [x]	Explored establishing data model relationships with Power Pivot for Atliq's data.
+ - [x]	Practiced incorporating additional data into Atliq's existing model.
+ - [x]	Began utilizing DAX for creating calculated columns for Atliq Hardware.
 
 ## Soft Skills Enhanced:
- - [x]Developed an understanding of Sales & Finance Reports for Atliq Hardware.
- - [x]Focused on designing user-centric reports for Atliq's stakeholders with empathy.
- - [x]Worked on optimizing report generation for efficiency specifically for Atliq Hardware.
- - [x]Created a systematic approach to building report plans for Atliq's needs.
+ - [x]	Developed an understanding of Sales & Finance Reports for Atliq Hardware.
+ - [x]	Focused on designing user-centric reports for Atliq's stakeholders with empathy.
+ - [x]	Worked on optimizing report generation for efficiency specifically for Atliq Hardware.
+ - [x]	Created a systematic approach to building report plans for Atliq's needs.
