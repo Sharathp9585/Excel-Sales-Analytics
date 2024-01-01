@@ -7,15 +7,15 @@ Welcome to my project on Sales and Finance Reporting! This journey is focused on
 
 *Create Customer Performance and Market Performance vs. Sales Target Reports for Atliq Hardware*
 
-- A Customer Performance Report essentiql to understand how Atliq's customers are interacting with thier products(https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+- A Customer Performance Report essential to understand how Atliq's customers are interacting with thier products(https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 - A Market Performance vs. Sales Target Report to compare Atliq's actual sales performance against our goals.((https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
-------Why Sales Analytics? I'm learning that sales analytics are crucial for monitoring, understanding, and ultimately driving sales performance for Atliq Hardware. 
+------**Why Sales Analytics?** I'm learning that sales analytics are crucial for monitoring, understanding, and ultimately driving sales performance for Atliq Hardware. 
 They help in recognizing patterns and tracking important metrics.
 
-------Why Analyze Sales Data? Analyzing sales data allows us to identify trends and track Atliq's progress against our sales objectives.
+------**Why Analyze Sales Data?** Analyzing sales data allows us to identify trends and track Atliq's progress against our sales objectives.
 
-Role of These Reports: Through these reports, my aim is to understand Atliq Hardware's customer behavior, optimize our discount strategy, and identify new market opportunities.
+Role of These Reports: Through these reports, my aim is to understand Atliq Hardware's customer behavior and identify new market opportunities.
 
 2) **Finance Report Objectives**:
 
@@ -25,11 +25,11 @@ Role of These Reports: Through these reports, my aim is to understand Atliq Hard
 
 -A Market P&L Statement to gauge the financial health across different markets.(https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
-------Why Finance Analytics? Finance analytics are key to evaluating financial performance, aiding in decision-making, and communicating with stakeholders at Atliq Hardware.
+------**Why Finance Analytics?** Finance analytics are key to evaluating financial performance, aiding in decision-making, and communicating with stakeholders at Atliq Hardware.
 
 ------Importance of Finance Data Analysis: It's crucial for benchmarking Atliq's performance and setting the groundwork for future budgeting and forecasting.
 
-Role of These Reports: These reports are my first step in aligning financial planning with Atliq Hardware's strategic goals and instilling confidence in their financial future.
+**Role of These Reports:** These reports are my first step in aligning financial planning with Atliq Hardware's strategic goals and instilling confidence in their financial future.
 
 ## Technical Skills Developed:
  - [x]	Learned the basics of ETL (Extract, Transform, Load) methodology.
