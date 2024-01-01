@@ -1,5 +1,6 @@
 ## Introduction to Sales and Finance Reporting for Atliq Hardware :
 
+
 Welcome to my project on Sales and Finance Reporting! This journey is focused on understanding and improving the business performance of Atliq Hardware. As a newcomer in this field, I've embarked on creating insightful analytics reports to help drive strategic decisions within the company.
 
 1) **Sales Report Objectives**:
@@ -20,9 +21,9 @@ Role of These Reports: Through these reports, my aim is to understand Atliq Hard
 
 *Create P&L Reports by Fiscal Year as well as by Market for Atliq Hardware*
 
--A [Fiscal Year P&L Statement](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) to understand Atliq's yearly financial performance.
+-A [P&L Statement by months](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) to understand Atliq's yearly financial performance.
 
--A [Market P&L Statement](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf) to gauge the financial health across different markets.(https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+-A [Market P&L Statement](https://github.com/Sharathp9585/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf) to gauge the financial health across different markets.
 
 ------**Why Finance Analytics?** Finance analytics are key to evaluating financial performance, aiding in decision-making, and communicating with stakeholders at Atliq Hardware.
 
@@ -43,4 +44,3 @@ Role of These Reports: Through these reports, my aim is to understand Atliq Hard
  - [x]	Focused on designing user-centric reports for Atliq's stakeholders with empathy.
  - [x]	Worked on optimizing report generation for efficiency specifically for Atliq Hardware.
  - [x]	Created a systematic approach to building report plans for Atliq's needs.
-
